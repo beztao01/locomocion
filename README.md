@@ -1,2 +1,2 @@
-# Amtropometría y locomoción
+# Antropometría y Locomoción
 Un sitio académico
